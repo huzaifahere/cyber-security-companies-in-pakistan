@@ -32,3 +32,34 @@ This github repository is meant to act as a guideline or reference point for stu
 <li>ComplianceWing <br /></li>
 </ol>
 
+<h2>Companies that are providing SOC Services</h2>
+<ol>
+<li>Trillium Information Security System</li>
+
+<li>Ebryx</li>
+
+<li>Inbox</li>
+
+<li>VaporVM</li>
+
+</ol>
+
+<h2>Companies that have their own Security Department</h2>
+
+<ol>
+<li>MTBC</li>
+
+<li>Telenor</li>
+
+<li>Zong</li>
+
+<li>System.Ltd</li>
+
+<li>I2C</li>
+
+<li>TPS</li>
+
+<li>Afiniti</li>
+
+<li>Tech Avenue</li>
+</ol>
