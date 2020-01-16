@@ -62,6 +62,9 @@ This github repository is meant to act as a guideline or reference point for stu
 <li>Afiniti</li>
 
 <li>Tech Avenue</li>
+
+<li>Dubai Islamic Bank</li>
+
 </ol>
 
 <h2>How to Contribute</h2>
