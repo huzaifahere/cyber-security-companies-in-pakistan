@@ -63,3 +63,6 @@ This github repository is meant to act as a guideline or reference point for stu
 
 <li>Tech Avenue</li>
 </ol>
+
+<h2>How to Contribute</h2>
+If you are working in a company or have gone through an interview with a company which is not mentioned here, please submit a pull request.
