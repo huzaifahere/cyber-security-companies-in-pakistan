@@ -33,6 +33,8 @@ This github repository is meant to act as a guideline or reference point for stu
 
 <li>System.Ltd <br /></li>
 
+<li>Kualitatem PTV LTD <br /></li>
+
 </ol>
 
 <h2>Companies that are providing SOC Services</h2>
@@ -46,6 +48,10 @@ This github repository is meant to act as a guideline or reference point for stu
 <li>VaporVM</li>
 
 <li>System.Ltd <br /></li>
+
+<li>Kualitatem PTV LTD</li>
+
+<li>Commtel LLC</li>
 
 </ol>
 
@@ -69,6 +75,10 @@ This github repository is meant to act as a guideline or reference point for stu
 <li>Tech Avenue</li>
 
 <li>Dubai Islamic Bank</li>
+
+<li>Kualitatem PTV LTD</li>
+
+<li>Fauji Fertilizer Bin Qasim Ltd</li>
 
 </ol>
 
