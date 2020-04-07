@@ -2,7 +2,7 @@
 A list of cyber security companies or companies that have their own Cyber Security Department. 
 This github repository is meant to act as a guideline or reference point for students, professionals and companies looking out for job opportunities or services in the Cyber Security.
 <h2>Companies that are providing Penetration Testing Services</h2>
-<ol>
+<ul>
 <li>Trillium Information Security System <br /></li>
 
 <li>Ebryx <br /></li>
@@ -35,10 +35,10 @@ This github repository is meant to act as a guideline or reference point for stu
 
 <li>Kualitatem PTV LTD <br /></li>
 
-</ol>
+</ul>
 
 <h2>Companies that are providing SOC Services</h2>
-<ol>
+<ul>
 <li>Trillium Information Security System</li>
 
 <li>Ebryx</li>
@@ -52,12 +52,13 @@ This github repository is meant to act as a guideline or reference point for stu
 <li>Kualitatem PTV LTD</li>
 
 <li>Commtel LLC</li>
+<li>Rewterz </li>
 
-</ol>
+</ul>
 
 <h2>Companies that have their own Security Department</h2>
 
-<ol>
+<ul>
 <li>MTBC</li>
 
 <li>Telenor</li>
@@ -80,7 +81,7 @@ This github repository is meant to act as a guideline or reference point for stu
 
 <li>Fauji Fertilizer Bin Qasim Ltd</li>
 
-</ol>
+</ul>
 
 <h2>How to Contribute</h2>
 If you are working in a company or have gone through an interview with a company which is not mentioned here, please submit a pull request.
