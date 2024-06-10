@@ -3,6 +3,8 @@ A list of cyber security companies or companies that have their own Cyber Securi
 This github repository is meant to act as a guideline or reference point for students, professionals and companies looking out for job opportunities or services in the Cyber Security.
 <h2>Companies that are providing Penetration Testing Services</h2>
 <ul>
+<li>Dunicot <br /></li>
+  
 <li>Trillium Information Security System <br /></li>
 
 <li>Ebryx <br /></li>
